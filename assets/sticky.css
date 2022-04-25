@@ -1,0 +1,14 @@
+section{
+    width: 1500px;
+    height: 1500px;
+    margin: 50px;
+    position: relative;
+}
+
+.text h3{
+    background-color: darksalmon;
+    top: 0;
+    position: sticky;
+    padding: 20px;
+    border-top: 15px;
+}
